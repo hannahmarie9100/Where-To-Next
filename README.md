@@ -2,9 +2,9 @@
 
 Tell the app what you love, and it ranks destinations for you. Group trips, voting and flight logistics are on the way.
 
-**Live demo:** (https://wheretonext-pvtuth423-hannahmarie9100s-projects.vercel.app/)
+**Live demo:** https://wheretonext-beta.vercel.app/
 
-![Where To Next screenshot] (docs/README_screenshot.png)
+![Where To Next screenshot](docs/README_screenshot.png)
 
 ## Features
 
