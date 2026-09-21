@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <main className="mx-auto max-w-3xl px-5 py-12">
       <header className="mb-10">
-        <h1 className="text-4xl font-bold tracking-tight">Wanderly</h1>
+        <h1 className="text-4xl font-bold tracking-tight">Where To Next</h1>
         <p className="mt-2 text-zinc-600 dark:text-zinc-400">
           Tell us what you love. We&apos;ll find where to go.
         </p>
