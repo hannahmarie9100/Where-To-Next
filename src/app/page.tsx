@@ -14,7 +14,7 @@ export default function Home() {
           href="/explore"
           className="rounded-xl border border-zinc-200 p-6 text-left transition hover:border-sky-500 hover:shadow-sm dark:border-zinc-800"
         >
-          <h2 className="text-lg font-semibold">I know where I want to go</h2>
+          <h2 className="text-lg font-semibold">I already know</h2>
           <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
             Search for a destination by name.
           </p>
@@ -24,7 +24,7 @@ export default function Home() {
           href="/recommend"
           className="rounded-xl border border-zinc-200 p-6 text-left transition hover:border-sky-500 hover:shadow-sm dark:border-zinc-800"
         >
-          <h2 className="text-lg font-semibold">I Need Some Help Deciding</h2>
+          <h2 className="text-lg font-semibold">Help me decide</h2>
           <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
             Tell us your interests and budget, and we&apos;ll find matches.
           </p>
