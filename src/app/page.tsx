@@ -5,7 +5,7 @@ import { recommend } from "@/lib/recommend";
 import { INTERESTS, type Budget, type Interest } from "@/lib/types";
 
 const BUDGETS: { value: Budget; label: string }[] = [
-  { value: "budget", label: "Budget" },
+  { value: "budget", label: "Affordable" },
   { value: "mid", label: "Mid-range" },
   { value: "luxury", label: "Luxury" },
 ];

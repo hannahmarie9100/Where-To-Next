@@ -15,7 +15,7 @@ export const INTERESTS = [
 
 export type Interest = (typeof INTERESTS)[number];
 
-export type Budget = "affordable" | "mid" | "luxury";
+export type Budget = "budget" | "mid" | "luxury";
 
 export interface Destination {
   id: string;
